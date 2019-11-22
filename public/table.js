@@ -1,7 +1,7 @@
 $(function() {
 	let films;
 
-	$.getJSON('http://localhost:3000/films', function(films) {
+	$.getJSON('/films', function(films) {
 			console.log(films);
 			function renderContent(array) {
 				// xoá hết cái ban đầu đi render lại
