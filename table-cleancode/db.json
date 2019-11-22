@@ -1,0 +1,32 @@
+{
+  "films": [
+    {
+      "genre": "Drama",
+      "id": 4,
+      "title": "Avatar",
+      "duration": "12:40",
+      "date": "2019-04-12"
+    },
+    {
+      "genre": "Animation",
+      "title": "Wagons",
+      "duration": "21:40",
+      "date": "2007-04-12",
+      "id": 5
+    },
+    {
+      "genre": "Action",
+      "title": "End game",
+      "duration": "21:40",
+      "date": "2019-04-12",
+      "id": 6
+    },
+    {
+      "genre": "Action",
+      "title": "Quyet",
+      "duration": "21:40",
+      "date": "2019-04-12",
+      "id": 7
+    }
+  ]
+}
